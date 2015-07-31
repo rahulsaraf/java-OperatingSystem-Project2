@@ -1,0 +1,396 @@
+Customer 0 created
+Customer 1 created
+Customer 2 created
+Customer 0 enters post office
+Customer 1 enters post office
+Customer 3 created
+Customer 2 enters post office
+Customer 4 created
+Customer 5 created
+Customer 6 created
+Customer 4 enters post office
+Customer 7 created
+Customer 3 enters post office
+Customer 8 created
+Customer 6 enters post office
+Customer 9 created
+Customer 5 enters post office
+Customer 8 enters post office
+Customer 10 created
+Customer 9 enters post office
+Customer 7 enters post office
+Customer 11 created
+Customer 12 created
+Customer 13 created
+Customer 14 created
+Customer 15 created
+Customer 16 created
+Customer 17 created
+Customer 18 created
+Customer 19 created
+Customer 20 created
+Customer 21 created
+Customer 22 created
+Customer 23 created
+Customer 24 created
+Customer 25 created
+Customer 26 created
+Customer 27 created
+Customer 28 created
+Customer 29 created
+Customer 30 created
+Customer 31 created
+Customer 32 created
+Customer 33 created
+Customer 34 created
+Customer 35 created
+Customer 36 created
+Customer 37 created
+Customer 38 created
+Customer 39 created
+Customer 40 created
+Customer 41 created
+Customer 42 created
+Customer 43 created
+Customer 44 created
+Customer 45 created
+Customer 46 created
+Customer 47 created
+Customer 48 created
+Customer 49 created
+Postal Worker 0 created
+Postal Worker 1 created
+Postal Worker 2 created
+Postal worker0 serving customer0
+Postal worker1 serving customer1
+Customer0 asks postal worker0 to buy stamps
+Customer1 asks postal worker1 to mail a package
+Scales in use by postal worker1
+Postal worker2 serving customer2
+Customer2 asks postal worker2 to mail a letter
+Postal worker0 finished serving customer0
+Customer0 finished buying stamps
+Customer 10 enters post office
+Joined customer 0
+Postal worker0 serving customer4
+Customer4 asks postal worker0 to mail a package
+Postal worker2 finished serving customer2
+Customer2 finished mailing a letter
+Customer 11 enters post office
+Postal worker2 serving customer3
+Customer3 asks postal worker2 to buy stamps
+Scales released by postal worker1
+Scales in use by postal worker0
+Postal worker1 finished serving customer1
+Customer1 finished mailing a package
+Customer 12 enters post office
+Joined customer 1
+Joined customer 2
+Postal worker1 serving customer6
+Customer6 asks postal worker1 to buy stamps
+Postal worker2 finished serving customer3
+Customer3 finished buying stamps
+Customer 13 enters post office
+Joined customer 3
+Postal worker2 serving customer5
+Customer5 asks postal worker2 to mail a letter
+Postal worker1 finished serving customer6
+Customer6 finished buying stamps
+Customer 14 enters post office
+Postal worker1 serving customer8
+Customer8 asks postal worker1 to mail a letter
+Scales released by postal worker0
+Postal worker0 finished serving customer4
+Customer4 finished mailing a package
+Customer 15 enters post office
+Joined customer 4
+Postal worker0 serving customer9
+Customer9 asks postal worker0 to mail a letter
+Postal worker2 finished serving customer5
+Customer5 finished mailing a letter
+Customer 16 enters post office
+Joined customer 5
+Joined customer 6
+Postal worker2 serving customer7
+Customer7 asks postal worker2 to buy stamps
+Postal worker1 finished serving customer8
+Customer8 finished mailing a letter
+Customer 17 enters post office
+Postal worker1 serving customer10
+Customer10 asks postal worker1 to buy stamps
+Postal worker2 finished serving customer7
+Customer7 finished buying stamps
+Customer 18 enters post office
+Joined customer 7
+Joined customer 8
+Postal worker2 serving customer11
+Customer11 asks postal worker2 to mail a package
+Scales in use by postal worker2
+Postal worker1 finished serving customer10
+Customer10 finished buying stamps
+Customer 19 enters post office
+Postal worker1 serving customer12
+Customer12 asks postal worker1 to buy stamps
+Postal worker0 finished serving customer9
+Customer9 finished mailing a letter
+Customer 20 enters post office
+Joined customer 9
+Joined customer 10
+Postal worker0 serving customer13
+Customer13 asks postal worker0 to mail a letter
+Postal worker1 finished serving customer12
+Customer12 finished buying stamps
+Customer 21 enters post office
+Postal worker1 serving customer14
+Customer14 asks postal worker1 to buy stamps
+Postal worker0 finished serving customer13
+Customer13 finished mailing a letter
+Customer 22 enters post office
+Postal worker0 serving customer15
+Customer15 asks postal worker0 to mail a package
+Scales released by postal worker2
+Scales in use by postal worker0
+Postal worker2 finished serving customer11
+Customer11 finished mailing a package
+Customer 23 enters post office
+Joined customer 11
+Joined customer 12
+Joined customer 13
+Postal worker2 serving customer16
+Customer16 asks postal worker2 to mail a package
+Postal worker1 finished serving customer14
+Customer14 finished buying stamps
+Customer 24 enters post office
+Joined customer 14
+Postal worker1 serving customer17
+Customer17 asks postal worker1 to mail a package
+Scales released by postal worker0
+Scales in use by postal worker2
+Postal worker0 finished serving customer15
+Customer15 finished mailing a package
+Customer 25 enters post office
+Joined customer 15
+Postal worker0 serving customer18
+Customer18 asks postal worker0 to mail a letter
+Postal worker0 finished serving customer18
+Customer18 finished mailing a letter
+Customer 26 enters post office
+Postal worker0 serving customer19
+Customer19 asks postal worker0 to buy stamps
+Scales released by postal worker2
+Scales in use by postal worker1
+Postal worker2 finished serving customer16
+Customer16 finished mailing a package
+Customer 27 enters post office
+Joined customer 16
+Postal worker2 serving customer20
+Customer20 asks postal worker2 to buy stamps
+Postal worker0 finished serving customer19
+Customer19 finished buying stamps
+Customer 28 enters post office
+Postal worker0 serving customer21
+Customer21 asks postal worker0 to mail a package
+Postal worker2 finished serving customer20
+Customer20 finished buying stamps
+Customer 29 enters post office
+Postal worker2 serving customer22
+Customer22 asks postal worker2 to buy stamps
+Scales released by postal worker1
+Scales in use by postal worker0
+Postal worker1 finished serving customer17
+Customer17 finished mailing a package
+Customer 30 enters post office
+Joined customer 17
+Joined customer 18
+Joined customer 19
+Joined customer 20
+Postal worker1 serving customer23
+Customer23 asks postal worker1 to mail a package
+Postal worker2 finished serving customer22
+Customer22 finished buying stamps
+Customer 31 enters post office
+Postal worker2 serving customer24
+Customer24 asks postal worker2 to buy stamps
+Postal worker2 finished serving customer24
+Customer24 finished buying stamps
+Customer 32 enters post office
+Postal worker2 serving customer25
+Customer25 asks postal worker2 to mail a package
+Scales released by postal worker0
+Scales in use by postal worker1
+Postal worker0 finished serving customer21
+Customer21 finished mailing a package
+Customer 33 enters post office
+Joined customer 21
+Joined customer 22
+Postal worker0 serving customer26
+Customer26 asks postal worker0 to mail a package
+Scales released by postal worker1
+Scales in use by postal worker2
+Postal worker1 finished serving customer23
+Customer23 finished mailing a package
+Customer 34 enters post office
+Joined customer 23
+Joined customer 24
+Postal worker1 serving customer27
+Customer27 asks postal worker1 to mail a package
+Scales released by postal worker2
+Scales in use by postal worker0
+Postal worker2 finished serving customer25
+Customer25 finished mailing a package
+Customer 35 enters post office
+Joined customer 25
+Postal worker2 serving customer28
+Customer28 asks postal worker2 to buy stamps
+Postal worker2 finished serving customer28
+Customer28 finished buying stamps
+Customer 36 enters post office
+Postal worker2 serving customer29
+Customer29 asks postal worker2 to buy stamps
+Scales released by postal worker0
+Scales in use by postal worker1
+Postal worker0 finished serving customer26
+Customer26 finished mailing a package
+Customer 37 enters post office
+Joined customer 26
+Postal worker0 serving customer30
+Customer30 asks postal worker0 to mail a package
+Postal worker2 finished serving customer29
+Customer29 finished buying stamps
+Customer 38 enters post office
+Postal worker2 serving customer31
+Customer31 asks postal worker2 to mail a package
+Scales released by postal worker1
+Scales in use by postal worker0
+Postal worker1 finished serving customer27
+Customer27 finished mailing a package
+Customer 39 enters post office
+Joined customer 27
+Joined customer 28
+Joined customer 29
+Postal worker1 serving customer32
+Customer32 asks postal worker1 to mail a package
+Scales released by postal worker0
+Scales in use by postal worker2
+Postal worker0 finished serving customer30
+Customer30 finished mailing a package
+Customer 40 enters post office
+Joined customer 30
+Postal worker0 serving customer33
+Customer33 asks postal worker0 to mail a package
+Scales released by postal worker2
+Scales in use by postal worker1
+Postal worker2 finished serving customer31
+Customer31 finished mailing a package
+Customer 41 enters post office
+Joined customer 31
+Postal worker2 serving customer34
+Customer34 asks postal worker2 to buy stamps
+Postal worker2 finished serving customer34
+Customer34 finished buying stamps
+Customer 42 enters post office
+Postal worker2 serving customer35
+Customer35 asks postal worker2 to mail a letter
+Scales released by postal worker1
+Scales in use by postal worker0
+Postal worker1 finished serving customer32
+Customer32 finished mailing a package
+Customer 43 enters post office
+Joined customer 32
+Postal worker1 serving customer36
+Customer36 asks postal worker1 to mail a letter
+Postal worker2 finished serving customer35
+Customer35 finished mailing a letter
+Postal worker2 serving customer37
+Customer 44 enters post office
+Customer37 asks postal worker2 to buy stamps
+Postal worker1 finished serving customer36
+Customer36 finished mailing a letter
+Customer 45 enters post office
+Postal worker1 serving customer38
+Customer38 asks postal worker1 to mail a package
+Postal worker2 finished serving customer37
+Customer37 finished buying stamps
+Customer 46 enters post office
+Postal worker2 serving customer39
+Customer39 asks postal worker2 to mail a package
+Scales released by postal worker0
+Scales in use by postal worker1
+Postal worker0 finished serving customer33
+Customer33 finished mailing a package
+Customer 47 enters post office
+Joined customer 33
+Joined customer 34
+Joined customer 35
+Joined customer 36
+Joined customer 37
+Postal worker0 serving customer40
+Customer40 asks postal worker0 to buy stamps
+Postal worker0 finished serving customer40
+Customer40 finished buying stamps
+Customer 48 enters post office
+Postal worker0 serving customer41
+Customer41 asks postal worker0 to buy stamps
+Scales released by postal worker1
+Scales in use by postal worker2
+Postal worker1 finished serving customer38
+Customer38 finished mailing a package
+Customer 49 enters post office
+Joined customer 38
+Postal worker1 serving customer42
+Customer42 asks postal worker1 to buy stamps
+Postal worker0 finished serving customer41
+Customer41 finished buying stamps
+Postal worker0 serving customer43
+Customer43 asks postal worker0 to mail a package
+Postal worker1 finished serving customer42
+Customer42 finished buying stamps
+Postal worker1 serving customer44
+Customer44 asks postal worker1 to mail a package
+Scales released by postal worker2
+Scales in use by postal worker0
+Postal worker2 finished serving customer39
+Customer39 finished mailing a package
+Joined customer 39
+Joined customer 40
+Joined customer 41
+Joined customer 42
+Postal worker2 serving customer45
+Customer45 asks postal worker2 to mail a letter
+Postal worker2 finished serving customer45
+Customer45 finished mailing a letter
+Postal worker2 serving customer46
+Customer46 asks postal worker2 to buy stamps
+Scales released by postal worker0
+Scales in use by postal worker1
+Postal worker0 finished serving customer43
+Customer43 finished mailing a package
+Joined customer 43
+Postal worker0 serving customer47
+Customer47 asks postal worker0 to mail a package
+Postal worker2 finished serving customer46
+Customer46 finished buying stamps
+Postal worker2 serving customer48
+Customer48 asks postal worker2 to mail a letter
+Scales released by postal worker1
+Scales in use by postal worker0
+Postal worker1 finished serving customer44
+Customer44 finished mailing a package
+Joined customer 44
+Joined customer 45
+Joined customer 46
+Postal worker1 serving customer49
+Customer49 asks postal worker1 to buy stamps
+Postal worker2 finished serving customer48
+Customer48 finished mailing a letter
+Postal worker1 finished serving customer49
+Customer49 finished buying stamps
+Scales released by postal worker0
+Postal worker0 finished serving customer47
+Customer47 finished mailing a package
+Joined customer 47
+Joined customer 48
+Joined customer 49
+Joined Postal Worker 0
+Joined Postal Worker 1
+Joined Postal Worker 2
